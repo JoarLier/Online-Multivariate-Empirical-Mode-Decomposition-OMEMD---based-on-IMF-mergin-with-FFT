@@ -1,4 +1,4 @@
-# Masterthesis---Online-Multivariate-Empirical-Mode-Decomposition-with-FFT-based-IMF-merging
+# Online-Multivariate-Empirical-Mode-Decomposition-OMEMD---based-on-IMF-mergin-with-FFT 
 The code used in the master thesis ___.
 
 This algorithm is a online version of MEMD that is more ressitant to mode splitting then the classical MEMD.
